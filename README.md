@@ -165,5 +165,3 @@ A landing page da Secure Max foi criada para apresentar os serviços de seguran�
 Como trabalho da primeira fase de Análise e Desenvolvimento de Sistemas, ele demonstra a aplicação prática dos fundamentos de HTML e CSS em uma necessidade real: divulgar os serviços de uma empresa e facilitar a comunicação com possíveis clientes.
 
 ---
-
-**Observação:** esta documentação descreve o código HTML/CSS fornecido para análise. O código da landing page não foi alterado. Para entregar o projeto, mantenha o arquivo HTML original e este `README.md` juntos na pasta do projeto.
